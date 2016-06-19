@@ -1,0 +1,14 @@
+Name: freeimage
+Description: Custom cartridge for freeimage
+Version: '0.1'
+License: No License
+Display-Name: freeimage
+Cartridge-Short-Name: freeimage
+Cartridge-Version: '0.1'
+Cartridge-Vendor: pferreir
+Source-Url: https://github.com/pferreir/openshift-cartridge-freeimage.git
+Categories:
+  - service
+Provides:
+  - freeimage
+  - freeimage-devel
